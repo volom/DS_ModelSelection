@@ -63,7 +63,7 @@ def train(model, dataloader, optimizer, criterion, epochs):
 seq_len = 5
 input_size = 1
 hidden_size = 16
-num_layers = 2
+num_layers = 4
 learning_rate = 0.001
 batch_size = 32
 epochs = 10
